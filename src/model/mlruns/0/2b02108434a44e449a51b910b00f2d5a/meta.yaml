@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kvuong/learning/mslearn-mlops/src/model/mlruns/0/2b02108434a44e449a51b910b00f2d5a/artifacts
+end_time: 1743565416190
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b02108434a44e449a51b910b00f2d5a
+run_name: whimsical-worm-690
+run_uuid: 2b02108434a44e449a51b910b00f2d5a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743565413667
+status: 3
+tags: []
+user_id: kvuong
