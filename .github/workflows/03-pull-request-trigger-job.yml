@@ -15,4 +15,6 @@ jobs:
       uses: azure/login@v1
       with:
         creds: ${{secrets.AZURE_CREDENTIALS}}
-    
+    - name: Placeholder
+      run: |
+        echo "Will add code checks here in the next challenge"
