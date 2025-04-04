@@ -1,0 +1,15 @@
+artifact_uri: file:///home/kvuong/learning/mslearn-mlops/src/model/mlruns/0/39dbe52c68fd44a5bf3c035c8d93b6b2/artifacts
+end_time: 1743735201854
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39dbe52c68fd44a5bf3c035c8d93b6b2
+run_name: smiling-jay-626
+run_uuid: 39dbe52c68fd44a5bf3c035c8d93b6b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743735199371
+status: 3
+tags: []
+user_id: kvuong
